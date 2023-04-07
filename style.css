@@ -1,0 +1,17 @@
+body{
+	text-align: center;
+}
+
+#status{
+	font-size: 18px;
+	color: rgb(7, 224, 0);
+}
+
+canvas{
+	background: rgb(0, 0, 0, 0.1);
+	border-radius: 20px;
+}
+
+br{
+    height: 20px;
+}
